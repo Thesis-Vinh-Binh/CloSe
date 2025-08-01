@@ -22,11 +22,11 @@ if __name__ == '__main__':
     parser.add_argument(
         '--scan_path',
         type=str,
-        default='./assets/demo/demo_scan.npz',
+        default='./assets/10001_1923.npz',
         help='Path to input .npz file',
     )
     parser.add_argument(
-        '--output', type=str, default='./out/demo_scan_out', help='Path to output directory'
+        '--output', type=str, default='./out/demo_test', help='Path to output directory'
     )
     parser.add_argument('--device', type=str, default='cuda', help='Device to run inference on')
     parser.add_argument('--render', action='store_true', default=False, help='Render the output')
