@@ -1,0 +1,3152 @@
+filename,caption
+test_100.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""cardigan"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_1112.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""vest"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""hip-length""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""full length""
+      ],
+      ""pant legs"": [
+        ""flared legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""button closure""
+      ]
+    }
+  }
+}
+```"
+test_1121.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""waist"": [
+        ""natural waist""
+      ],
+      ""dress"": [
+        ""maxi dress"",
+        ""loose dress""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""collar"": [
+        ""square neck""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    },
+    ""extra_details"": ""side slit""
+  }
+}
+```"
+test_114.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""midi""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""waist"": [
+        ""natural waist""
+      ],
+      ""dress"": [
+        ""midi dress"",
+        ""loose dress""
+      ],
+      ""skirt hems"": [
+        ""tiered hem""
+      ]
+    }
+  }
+}
+```"
+test_123.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs"",
+        ""short legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_124.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""drawstring waistband""
+      ],
+      ""cargo pockets"": [
+        ""side cargo pockets""
+      ]
+    }
+  }
+}
+```"
+test_131.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_1362.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""square neck""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""asymmetrical hem""
+      ]
+    }
+  }
+}
+```"
+test_14.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""cropped legs"",
+        ""long legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""cuff"": [
+        ""cuffed legs""
+      ]
+    }
+  }
+}
+```"
+test_141.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_143.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_157.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""ribbed waistband""
+      ]
+    }
+  }
+}
+```"
+test_19.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_2.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""cardigan"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""collarless""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""pleated hem""
+      ]
+    }
+  }
+}
+```"
+test_2082.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""pleated hem""
+      ]
+    }
+  }
+}
+```"
+test_214.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_24.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""round neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""closure"": [
+        ""button closure""
+      ]
+    }
+  }
+}
+```"
+test_246.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""waist"": [
+        ""natural waist""
+      ],
+      ""dress"": [
+        ""long dress"",
+        ""loose dress""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ],
+      ""collar"": [
+        ""square neck""
+      ]
+    }
+  }
+}
+```"
+test_25.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_254.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""flared legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_262.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""tank top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""cuff"": [
+        ""cuffed legs""
+      ]
+    }
+  }
+}
+```"
+test_294.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""drawstring waist""
+      ]
+    }
+  }
+}
+```"
+test_30.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""dress"": [
+        ""long dress"",
+        ""loose dress""
+      ],
+      ""waist"": [
+        ""tie waist""
+      ]
+    }
+  }
+}
+```"
+test_301.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_306.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""round neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_307.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""cuff"": [
+        ""cuffed legs""
+      ],
+      ""details"": [
+        ""cargo pockets""
+      ]
+    }
+  }
+}
+```"
+test_3074.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""dress"": [
+        ""loose dress""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""collar"": [
+        ""round neck""
+      ]
+    }
+  }
+}
+```"
+test_32.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_337.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_339.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""hood"": [
+        ""no hood""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_345.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""wide waistband""
+      ]
+    }
+  }
+}
+```"
+test_3932.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""pleated hem""
+      ]
+    }
+  }
+}
+```"
+test_3946.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_398.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""band waistband""
+      ]
+    }
+  }
+}
+```"
+test_4272.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""collared""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_428.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""pockets"": [
+        ""side pockets""
+      ]
+    }
+  }
+}
+```"
+test_429.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_449.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""mid-thigh length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_469.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_4723.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_475.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_482.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_490.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""pant legs"": [
+        ""straight legs"",
+        ""cropped legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""waist"": [
+        ""drawstring waist""
+      ]
+    }
+  }
+}
+```"
+test_4966.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""full length""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_502.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_5079.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""short sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""midi""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_509.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""elastic waist""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""pant legs"": [
+        ""cuffed legs""
+      ]
+    }
+  }
+}
+```"
+test_51.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_511.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_518.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""round neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_521.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""skirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_552.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_556.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""vest"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""hip-length""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""V-neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""full length""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_565.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_597.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_64.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""puff sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_662.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""drawstring waistband""
+      ]
+    }
+  }
+}
+```"
+test_701.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_713.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_719.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_72.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""lapel collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""drawstring waist""
+      ],
+      ""pant legs"": [
+        ""cropped legs""
+      ]
+    }
+  }
+}
+```"
+test_763.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""sweater"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_781.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""T-shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""crew neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""loose legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ]
+    }
+  }
+}
+```"
+test_795.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_809.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""collar""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_813.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_816.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ]
+    }
+  }
+}
+```"
+test_83.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""top"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""square neck""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_837.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""hood""
+      ],
+      ""hood"": [
+        ""normal hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""cropped legs""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_842.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""short sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""cropped""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ]
+    }
+  }
+}
+```"
+test_86.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""short""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_870.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""collarless""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"
+test_874.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""long sleeves"",
+        ""straight sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""pant legs"": [
+        ""straight legs""
+      ],
+      ""waist"": [
+        ""elastic waistband""
+      ],
+      ""cuff"": [
+        ""cuffed legs""
+      ]
+    }
+  }
+}
+```"
+test_908.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""cuffed sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""pants"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""pant legs"": [
+        ""straight legs"",
+        ""cropped legs""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""waistband"": [
+        ""drawstring waistband""
+      ]
+    }
+  }
+}
+```"
+test_92.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""jacket"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""hip-length""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""collar"": [
+        ""stand collar""
+      ],
+      ""waist"": [
+        ""elastic waist""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""mid-thigh length""
+      ],
+      ""waist"": [
+        ""elastic waist""
+      ]
+    }
+  }
+}
+```"
+test_928.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""cuff"": [
+        ""normal cuffs""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ],
+      ""waist"": [
+        ""elastic waistband""
+      ],
+      ""pockets"": [
+        ""patch pockets""
+      ]
+    }
+  }
+}
+```"
+test_949.png,"```json
+{
+  ""upperbody_garment"": {
+    ""garment_name"": ""shirt"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""normal""
+      ],
+      ""sleeves"": [
+        ""three-quater sleeves"",
+        ""loose sleeves""
+      ],
+      ""collar"": [
+        ""band collar""
+      ],
+      ""hood"": [
+        ""no hood""
+      ]
+    }
+  },
+  ""lowerbody_garment"": {
+    ""garment_name"": ""shorts"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""knee-length""
+      ],
+      ""waist"": [
+        ""mid-rise waist""
+      ],
+      ""skirt hems"": [
+        ""straight hem""
+      ]
+    }
+  }
+}
+```"

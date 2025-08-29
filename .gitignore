@@ -3,7 +3,6 @@ out/
 outputs*
 assets/close-dc/
 assets/close-di/
-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

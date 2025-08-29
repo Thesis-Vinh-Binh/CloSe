@@ -2,10 +2,18 @@ from fashion_clip.fashion_clip import FashionCLIP
 import numpy as np
 import pandas as pd 
 import os 
+import argparse
 
+def get_command_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_folder", "-i", type=str, default="/workspace/CloSe/data/close_image_scan", help="path to the input folder")
+    parser.add_argument("--library_folder", "-l", type=str, default="/workspace/image_retrieval_dataset_new", help="path to the library folder")
+    return parser.parse_args()
 
-INPUT = '/workspace/CloSe/data/close_image_scan'
-LIBRARY = '/workspace/image_retrieval_dataset_new'
+args = get_command_args()
+
+INPUT = args.input_folder
+LIBRARY = args.library_folder
 
 fclip = FashionCLIP('fashion-clip')
 
@@ -14,7 +22,7 @@ library_images = []
 for folder in os.listdir(LIBRARY):
     library_images.append(os.path.join(LIBRARY, folder))
 print(f'Loaded {len(library_images)} library images')
-library_captions = pd.read_csv(f'/workspace/captions.csv')
+library_captions = pd.read_csv(f'/workspace/ImageCaption/logs/caption/captions.csv')
 
 print('Loading input images')
 input_images = []
@@ -41,7 +49,7 @@ for i in range(len(input_images)):
     # sort the library images filename by the distance
     sorted_library_images = [library_images[j] for j in np.argsort(arr)]
     output.loc[i] = [input_images[i], sorted_library_images[:5]]
-output.to_csv('closest_images.csv', index=False)
+output.to_csv(f'{INPUT}/closest_images.csv', index=False)
 
 
 

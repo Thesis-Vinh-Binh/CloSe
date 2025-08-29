@@ -1,0 +1,63 @@
+filename,caption
+sketch_1.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""Dress"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""wide""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""waist"": [
+        ""natural waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ],
+      ""neck"": [
+        ""SquareNeckHalf""
+      ],
+      ""collar"": [
+        ""null""
+      ]
+    }
+  },
+  ""extra_details"": ""corset, layered skirt""
+}
+```"
+sketch_2.png,"```json
+{
+  ""wholebody_garment"": {
+    ""garment_name"": ""AsymmSkirtCircle"",
+    ""geometry_styles"": {
+      ""width"": [
+        ""normal""
+      ],
+      ""length"": [
+        ""long""
+      ],
+      ""sleeves"": [
+        ""sleeveless""
+      ],
+      ""waist"": [
+        ""high waist""
+      ],
+      ""skirt hems"": [
+        ""slit hem""
+      ],
+      ""neck"": [
+        ""VNeckHalf""
+      ],
+      ""collar"": [
+        ""null""
+      ]
+    }
+  },
+  ""extra_details"": ""draped bodice, gathered waist, flowing skirt""
+}
+```"
